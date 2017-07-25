@@ -1,0 +1,10 @@
+.mainfeed{
+	max-width: 600px;
+	width: 100%;
+	margin: 0 auto;
+}
+.form-control-footprint{
+	border: none;
+	outline: none;
+	border-radius: 0;
+}
